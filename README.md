@@ -5,8 +5,8 @@ The primary goal of this machine learning project is to develop a robust predict
 Project Workflow :
 - Data Collection
 - Exploratory Data Analysis (EDA)
-- Data Cleaning and Preprocessing
 - Feature Engineering
 - Model Building
 - Model Evaluation
-- Deployment
+- Deployment with flask
+- Docker
